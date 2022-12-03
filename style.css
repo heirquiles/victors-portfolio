@@ -1,4 +1,18 @@
 body {
-    background-color: midnightblue;
+    background: url(https://images.unsplash.com/photo-1554147090-e1221a04a025?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2296&q=80);
+    background-size: cover;
+    background-color: rgb(216, 188, 215);
+    
     color: antiquewhite;
+}
+
+.tech-grid {
+    display: grid;
+    justify-content: center;
+    
+}
+
+.tech-grid .col {
+    border: 3px solid black;
+    gap: -1px;
 }
