@@ -5,6 +5,8 @@
     
     color: antiquewhite;
 } */
+
+
 main {
     background-color: #F6E6CB;
     color: #8a7767;
@@ -37,12 +39,33 @@ main {
 }
 .name {
     font-size: 5rem;
-    padding: 0 3rem 1rem 3rem;
+    padding: 0 3rem 1rem;
 
+}
+.bio {
+    margin: 1rem;
 }
 
 .title {
     font-size: 5rem;
     margin: 0 3rem 0 3rem;
 
+}
+.contact-me {
+    font-size: 5rem;
+    margin-right: 2rem;
+    text-decoration: none;
+    color: #8a7767;
+}
+
+.contact a:hover {
+    color: #594c41;
+}
+.icon-wrap {
+    display: flex;
+    flex-direction: row;
+}
+.icon img{
+    max-width: 100px;
+    padding: 1.5rem;
 }
