@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Web Dev/HTML - Personal Site/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "victors-portfolio"
+	}
+}

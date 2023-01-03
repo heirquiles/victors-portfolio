@@ -1,17 +1,20 @@
-/* body {
+ /* body {
     background: url(https://images.unsplash.com/photo-1554147090-e1221a04a025?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2296&q=80);
     background-size: cover;
     background-color: rgb(216, 188, 215);
     
     color: antiquewhite;
 } */
+body {
+    border: rgb(39, 37, 37) solid 2.5rem;
 
+}
 
 main {
     background-color: #F6E6CB;
     color: #8a7767;
-    border-radius: 3px;
-    margin: 2.5rem;
+    border-radius: 8px;
+    
     font-family: 'Space Grotesk', sans-serif;
 }
 .header {
